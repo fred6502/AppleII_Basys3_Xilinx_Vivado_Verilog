@@ -1,0 +1,2 @@
+# AppleII_Basys3_Xilinx_Vivado_Verilog
+This is a gate level more or less implementation of an Apple ][. It outputs a composite video signal and uses USB/PS2 keyboard. This is the Xilinx Vivado Project written in Verilog including a built Apple Vivado\AppleII\AppleIIGL2\AppleIIGL2.runs\impl_1\AppleII_FPGA.bit ready to be downloaded into basys3. Needs some external components to make composite video signal.
